@@ -16,11 +16,11 @@
         "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/jingxuanguochan.m3u&&&hhttp://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
         {
-        "name": "qipao.m3u",
+        "name": "qipao",
         "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/qipao.m3u&&&hhttp://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
             {
-        "name": "tianmei.m3u",
+        "name": "tianmei",
         "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/tianmei.m3u&&&hhttp://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
         {
@@ -40,7 +40,7 @@
         "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/TV/605.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     }，
             {
-        "name": "PEHy.txt",
+        "name": "PEHy",
         "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/TV/PEHy.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     }
 
