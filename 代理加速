@@ -1,4 +1,12 @@
+*************************************************
+二.代理加速
+*************************************************
+国内代理方式： 原地址：https://raw.iqiq.io/(https://github.com/alantang1977/T/blob/master/TangTV.json)
 
+加速地址：https://raw.iqiq.io/alantang1977/T/master/TangTV.json（将https://github.com/和/blob删除）
+
+https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/alist.json
+*************************************************
         Github托管直播源打不开
         地址前增加　https://mirror.ghproxy.com/　 　https://github.moeyy.xyz/　
         github代理地址：
