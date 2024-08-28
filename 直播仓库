@@ -1,0 +1,19 @@
+1.ngo5
+https://github.com/ngo5/IPTV
+
+名称 	地址 	类型 	EPG 	台标
+fanmingming 	https://live.fanmingming.com/tv/m3u/ipv6.m3u 	IPV6 	✔️ 	✔️
+fanmingmingindex 	https://live.fanmingming.com/tv/m3u/index.m3u 	IPV6 	✔️ 	✔️
+YueChan 	https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u 	IPV6 	❌ 	✔️
+Kimentanm 	https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u 	IPV4/6 	❌ 	✔️
+BurningC4 	https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u 	IPV4 	❌ 	❌
+joevess 	https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u 	IPV4 	❌ 	✔️
+传说引导页 	http://tttttt.tttttttttt.top/tttt.txt 	IPV4 	❌ 	❌
+无止境 	https://wzsvip.github.io/ipv4.m3u 	IPV4 	❌ 	❌
+无止境 	https://wzsvip.github.io/ipv6.m3u 	IPV6 	❌ 	❌
+Ftindy 	https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u 	IPV6 	✔️ 	✔️
+YanG-1989 	https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u 	IPV6 	✔️ 	✔️
+YanG-1989 完整版 	https://tv.iill.top/m3u/Gather 	IPV6 	✔️ 	✔️
+iptv-sources 镜像fanmingming 	https://m3u.ibert.me/fmml_ipv6.m3u 	IPV6 	✔️ 	✔️
+
+--------------------------------------------------------------------------------------------
