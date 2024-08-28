@@ -1,0 +1,36 @@
+
+---------------------------------------------------------------------------------------------
+
+ takagen99 / Box
+
+app/src/main/java/com/github/tvbox/osc/util/M3U8.java
+
+  private static double maxPercent(HashMap<String, Integer> preUrlMap) {
+        int maxTimes = 0, totalTimes = 0;
+        for (Map.Entry<String, Integer> entry : preUrlMap.entrySet()) {
+            if (entry.getValue() > maxTimes) {
+                maxTimes = entry.getValue();
+            }
+            totalTimes += entry.getValue();
+        }
+        return  maxTimes*1.0 / (totalTimes*1.0);
+    }
+      if (preUrlMap.size() <= 1) return null;
+        if (preUrlMap.size() > 5) {
+        if (maxPercent(preUrlMap) < 0.8) {
+            //尝试判断域名，取同域名最多的链接，其它域名当作广告去除
+---------------------------------------------------------------------------------------------
+  
+
+    XiaoRanLiu3119
+    /
+    TVBoxOS-Mobile
+
+
+app/src/main/java/com/github/tvbox/osc/ui/fragment/PlayFragment.java
+
+
+void startPlayUrl(String url, HashMap<String, String> headers) {
+        LOG.i("playUrl:" + url);
+        if (autoRetryCount > 0 && url.contains(".m3u8")) {
+            url = "http://home.jundie.top:666/unBom.php?m3u8=" + url;//尝试去bom头再次播放
