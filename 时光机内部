@@ -1,0 +1,29 @@
+=== 进群须知 ===
+
+1. 入群先登记超级密钥，用于时光机登录，超密不会过期
+https://docs.qq.com/form/page/DUG1BVGl4a3FTeWhu
+注意点：一人一码关联昵称，使用不限制数量，如果你忘记超密，点这个文档有记录
+
+2. 新增超密关联 jxtoken 付费服务，1 年 20 元，自动过滤片中广告
+https://docs.qq.com/form/page/DUFJJa0F6WHljVWRQ
+注意点：自愿付费，免费的 jxtoken 会定期在公众号文章里提供
+
+3. 资源下载
+总入口：https://www.lintech.work/tool/jump_home/
+网盘整合入口：https://www.lintech.work/ad/?pwd=%E7%BD%91%E7%9B%98
+注意点：点击会重定向到历史文章，点返回就能到下载页面
+
+4. 数据源部分
+- 稳定版时光机：https://gitee.com/bestpvp/source/raw/master/source/stable/main.json
+- 内测版时光机：https://www.lintech.work/static/source/main.json
+
+5. iOS 使用 CVO
+- 网盘中提供 ipa 文件，需要自签名，免费
+- 数据源地址：gitee://ad972b3fc3090b1f09e7f280791b8104@gitee.com/bestpvp/cvo/master/0307/js/config_open.json
+
+6. 赞助打赏
+- 可以文章点击广告，什么是切片三连点？
+https://docs.qq.com/doc/DUGlhSHl1QVNIcWdx
+- 不拒绝群里各种红包，文章打赏等，均会有记录
+
+7. 广告内容仅供参考，涉及金钱交易风险自担
