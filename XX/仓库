@@ -1,24 +1,21 @@
 18++github仓库
+https://github.com/yf20230412/master/blob/main/TvBox/88.json
 
-  {"urls":[
-  {"name":"🌙xingfu","url":"http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json"},
+"🌙xingfu","url":"http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json"},
   
-  {"name":"🐼C","url":"http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/c.json"},
+"🐼C","url":"http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/c.json"},
 
 			"url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/hh",
-			"name": "yschaizhen-H"
 
 			"url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx1",
-			"name": "yschaizhen-1"
+		
 
 			"url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx2",
 
 			"url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx3",
-			"name": "yschaizhen-3"
-		},
-		{
+		
 			"url": "https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt",
-			"name": "c120487-1"
+	
 
 			"url": "https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt",
 			"name": "c120487-1"
