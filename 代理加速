@@ -1,3 +1,11 @@
+*************************************************************************************
+gh.ddlc.top
+github.moeyy.xyz
+hub.gitmirror.com
+ghproxy.liuzhicong.com
+gh-proxy.com
+以上泛播 Cloudflare 延迟低，优先使用
+*************************************************************************************
 加速站
 
     kkgithub.com
@@ -18,6 +26,14 @@ https://kkgithub.com/bestpvp/tm/
    blocked- https://ghps.cc/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json
 
     https://gh.ddlc.top/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json
+
+https://ghproxy.net/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json
+https://gh-proxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json
+
+https://ghp.ci/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json
+https://github.moeyy.xyz/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json
+
 
 --------------------------------------------------------------------------
 https://ghproxy.net/https://raw.githubusercontent.com/anaer/Meow/main/meow.json
@@ -84,3 +100,142 @@ https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
 https://cdn.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
 https://purge.jsdelivr.net/gh/用户名/仓库名@main/接口文件
+
+----------------------------------------------------------------------------------------
+
+
+速度对比
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gh-proxy.com       74ms
+gh-proxy.com服务器iP：
+当前解析：
+
+泛播 Cloudflare172.67.132.181
+
+泛播 Cloudflare104.21.5.9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ghproxy.com        264ms
+ghproxy.com服务器iP：
+当前解析：
+
+美国 路易斯安那 门罗 Level38.7.198.46
+
+阿联酋 阿布扎比 Oracle129.151.136.35
+
+美国 俄亥俄 146.235.233.241
+
+美国 加利福尼亚 圣何塞 192.9.234.13
+
+韩国 京畿道 144.24.81.189
+
+德国 下萨克森 萨尔茨吉特 Telekom46.82.174.69
+
+意大利 伦巴第 米兰 93.46.8.90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ghproxy.net          225ms
+ghproxy.net服务器iP：
+当前解析：
+
+英国 英格兰 伦敦 OVH51.195.241.253
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ghproxy.liuzhicong.com     77ms
+ghproxy.liuzhicong.com服务器iP：
+当前解析：
+
+泛播 Cloudflare104.21.11.138
+
+泛播 Cloudflare172.67.166.36
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+hub.gitmirror.com       73ms
+hub.gitmirror.com服务器iP：
+当前解析：
+
+泛播 Cloudflare104.19.248.19
+
+泛播 Cloudflare104.19.143.209
+
+泛播 Cloudflare104.16.61.196
+
+泛播 Cloudflare104.17.17.206
+
+泛播 Cloudflare104.19.140.127
+
+泛播 Cloudflare172.67.138.210
+
+泛播 Cloudflare104.20.137.164
+
+泛播 Cloudflare172.64.84.123
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+mirror.ghproxy.com                254ms
+mirror.ghproxy.com服务器iP：
+当前解析：
+
+阿联酋 阿布扎比 Oracle129.151.136.35
+
+美国 俄亥俄 146.235.233.241
+
+美国 加利福尼亚 圣何塞 192.9.234.13
+
+阿联酋 迪拜 139.185.37.214
+
+韩国 京畿道 144.24.81.189
+
+美国 亚利桑那 凤凰城 Oracle129.146.41.82
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+github.moeyy.xyz                 72ms
+github.moeyy.xyz服务器iP：
+当前解析：
+
+泛播 Cloudflare172.67.160.19
+
+泛播 Cloudflare104.16.123.3
+
+泛播 Cloudflare104.16.123.5
+
+泛播 Cloudflare104.16.123.4
+
+泛播 Cloudflare104.21.14.168
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ghp.ci
+ghp.ci服务器iP：
+当前解析：
+
+阿联酋 阿布扎比 Oracle129.151.136.35
+
+美国 俄亥俄 146.235.233.241
+
+美国 加利福尼亚 圣何塞 192.9.234.13
+
+美国 弗吉尼亚 阿什本 150.136.252.237
+
+巴西 圣保罗 Oracle138.2.247.15
+
+哥斯达黎加 144.22.239.90
+
+德国 黑森 法兰克福 Oracle132.145.248.22
+
+日本 大阪 141.147.152.25
+
+阿联酋 迪拜 139.185.37.214
+
+韩国 京畿道 144.24.83.236
+
+新加坡 Oracle138.2.88.86
+
+美国 亚利桑那 凤凰城 Oracle129.146.41.82
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gh.ddlc.top                73ms
+gh.ddlc.top服务器iP：
+当前解析：
+
+泛播 Cloudflare104.21.235.119
+
+泛播 Cloudflare104.21.235.120
+
+泛播 Cloudflare104.19.89.51
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
