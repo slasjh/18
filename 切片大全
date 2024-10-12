@@ -1,3 +1,167 @@
+
+ {
+      "key": "鸣人资源",
+      "name": "🌀鸣人采集",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list"
+    },
+    {
+      "key": "优质资源",
+      "name": "🌀优质采集",
+      "type": 0,
+      "api": "https://api.1080zyku.com/inc/ldg_api.php"
+    },
+    {
+      "key": "黑木资源",
+      "name": "🌀木耳采集",
+      "type": 1,
+      "api": "https://heimuer.tv/api.php/provide/vod/"
+    },
+    {
+      "key": "喵派对影",
+      "name": "🌀喵趣采集",
+      "type": 1,
+      "api": "https://www.lezy.lol/api.php/provide/vod/"
+    },
+    {
+      "key": "映迷资源",
+      "name": "🌀映迷快播",
+      "type": 1,
+      "api": "https://www.inmi./api.php/provide/vod/"
+    },
+    {
+      "key": "易看资源",
+      "name": "🌀易看快播",
+      "type": 1,
+      "api": "http://tv.ykzj6.cn/api.php/provide/vod/"
+    },
+    {
+      "key": "影猫资源",
+      "name": "🌀影猫快播",
+      "type": 1,
+      "api": "http://ysm.tkbot.fun/api.php/provide/vod/"
+    },
+    {
+      "key": "何以资源",
+      "name": "🌀何以快播",
+      "type": 1,
+      "api": "https://www.heyik.cn/api.php/provide/vod/"
+    },
+    {
+      "key": "猫咪资源",
+      "name": "🌀猫咪采集",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod"
+    },
+    {
+      "key": "九零资源",
+      "name": "🌀九零采集",
+      "type": 1,
+      "api": "https://oknnews.com/api.php/provide/vod/"
+    },
+    {
+      "key": "策驰资源",
+      "name": "🌀策驰采集",
+      "type": 1,
+      "api": "https://www.39kan.com/api.php/provide/vod/"
+    },
+    {
+      "key": "努努资源",
+      "name": "🌀努努采集",
+      "type": 1,
+      "api": "https://www.nuuub.com/api.php/provide/vod/"
+    },
+    {
+      "key": "星星资源",
+      "name": "🌀星星采集",
+      "type": 1,
+      "api": "http://vip.smzj6.vip/api.php/provide/vod/"
+    },
+    {
+      "key": "农民资源",
+      "name": "🌀农民采集",
+      "type": 1,
+      "api": "https://www.xncnews.com/api.php/provide/vod/"
+    },
+    {
+      "key": "追风资源",
+      "name": "🌀追风采集",
+      "type": 1,
+      "api": "http://www.zfsp.cc/api.php/provide/vod/"
+    },
+    {
+      "key": "五一资源",
+      "name": "🌀五一采集",
+      "type": 1,
+      "api": "http://www.51zhuiju.cc/api.php/provide/vod/"
+    },
+    {
+      "key": "追剧资源",
+      "name": "🌀看剧采集",
+      "type": 1,
+      "api": "https://www.zhuijuju.net/api.php/provide/vod/"
+    },
+    {
+      "key": "一舟影院",
+      "name": "🌀一舟采集",
+      "type": 1,
+      "api": "http://www.mandao.site/api.php/provide/vod/"
+    },
+    {
+      "key": "无忧资源",
+      "name": "🌀无忧采集",
+      "type": 1,
+      "api": "https://www.wyvod.com/api.php/provide/vod/"
+    },
+    {
+      "key": "柠檬资源",
+      "name": "🌀柠檬采集",
+      "type": 1,
+      "api": "https://www.nmnm.cc/api.php/provide/vod/"
+    },
+    {
+      "key": "三八资源",
+      "name": "🌀三八采集",
+      "type": 1,
+      "api": "https://vod38.com/api.php/provide/vod/"
+    },
+    {
+      "key": "淘片采集",
+      "name": "🌀淘片采集",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html"
+    },
+    {
+      "key": "飞速资源",
+      "name": "🌀飞速采集",
+      "type": 1,
+      "api": "https://feisuzy.com/api.php/provide/vod/"
+    },
+    {
+      "key": "墨白影视",
+      "name": "🌀墨白快播",
+      "type": 1,
+      "api": "https://nm.xxxc137.top/api.php/provide/vod/"
+    },
+    {
+      "key": "风启影视",
+      "name": "🌀风启快播",
+      "type": 1,
+      "api": "https://15ds.cn/api.php/provide/vod/"
+    },
+    {
+      "key": "皇冠影视",
+      "name": "🌀皇冠快播",
+      "type": 1,
+      "api": "https://hong.hgyx.vip/api.php/provide/vod/"
+    },
+    {
+      "key": "剧狗影视",
+      "name": "🌀剧狗快播",
+      "type": 1,
+      "api": "https://www.youmuz.cn/api.php/provide/vod/"
+    },
+
 来个地址这是有插播广告的资源站
 量子：http://lzzy.tv/
 非凡：http://ffzy1.tv/
