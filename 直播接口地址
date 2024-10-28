@@ -1,3 +1,83 @@
+
+纯 IPv4 源
+
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u #百视通源
+
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u #重庆广电源
+
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u #可能为阳泉广电源
+
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u #河北广电源
+
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u #国内4K/8K源
+
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u #zbefine源
+
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U #茶客源
+
+https://x-x-xxx.github.io/diyp/tv.txt #diyp源
+
+https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
+直链：
+https://xxy.free.hr/YIPTV.m3u
+https://iptv.228088.xyz/cn.m3u
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://testingcf.jsdelivr.net/gh/whpsky/iptv@main/chinatv.m3u
+
+部分 IPv4、部分 IPv6 源
+
+# 检测日期：2024年6月6日  总：1926 在线：1240 离线：686
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u #BigBigGrandG源，有部分IPv6
+
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u #Kimentanm源，有部分IPv6
+
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u #YanG集合源，有部分IPv6
+
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u #范明明源，有部分IPv6
+直链： https://xxy.free.hr/Fipv6.m3u
+
+纯 IPv6 源
+
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u #范明明源，纯IPv6源
+
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u #YueChan源，纯IPv6
+
+https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u #whpsky源，纯IPv6
+
+https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u #ZhangHongGuang源，纯IPv6
+
+https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt
+
+部分海外源
+
+https://epg.pw/test_channels.m3u #中国大陆频道
+
+https://epg.pw/test_channels_hong_kong.m3u #香港频道
+
+https://epg.pw/test_channels_macau.m3u #澳门频道
+
+https://epg.pw/test_channels_taiwan.m3u #台湾频道
+
+https://iptv-org.github.io/iptv/countries/tw.m3u #台湾频道
+
+https://epg.pw/test_channels_singapore.m3u #新加坡频道
+
+https://epg.pw/test_channels_malaysia.m3u #马来西亚频道
+
+其他
+
+YanG: https://yang-1989.eu.org/m3u/Gather
+
+https://iptv-org.github.io/iptv/index.m3u
+
+https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
+
+https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
+
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+
+# F1TV IPTV源 （仅比赛期间有信号）
+https://mashaf1.cn/F1.m3u
 ------------------------------------------------------------------
 每天自动运行
   https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u
