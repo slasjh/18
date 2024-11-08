@@ -1,0 +1,14 @@
+
+
+1.寻找源
+
+https://github.com/yuanzl77/IPTV 
+
+2.校验源
+
+https://github.com/flyfishes/IPTV-M3U-Checker2
+https://github.com/zhimin-dev/iptv-checker
+提供了命令行和web页面两种方式
+
+3.清洗源
+主要是针对前面找到可用的目标源，这里主要是去重。
