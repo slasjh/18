@@ -20,14 +20,11 @@ https://github.com/zwc456baby/iptv_alive
   https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u
 
 
-
 每天
 https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u
 
 每周更新
 https://github.com/YanG-1989/m3u/blob/main/Gather.m3u
-
-
 
 
 
@@ -37,4 +34,7 @@ https://github.com/YanG-1989/m3u/blob/main/Gather.m3u
 
 此项目通过其它直播源抓取集成一个总直播源
 https://github.com/yuanzl77/IPTV
+
+采集各大佬直播，并整合成m3u
+https://github.com/n3rddd/CTVLive/blob/main/live.m3u
 
