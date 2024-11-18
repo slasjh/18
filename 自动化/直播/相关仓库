@@ -42,3 +42,6 @@ https://github.com/n3rddd/CTVLive/blob/main/live.m3u
 采集各大佬直播，并整合成m3u（每天00:00开始扫源自检，9:00、17:00会再次扫线上源）
 https://github.com/maitel2020/iptv-self-use
 
+采集各大佬直播，并整合成m3u和txt
+https://github.com/zzj2678/collect-tv-txt/blob/main/main.py
+
