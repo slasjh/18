@@ -40,4 +40,6 @@ uninstall_watchtower() {
 
     if [ "$(docker ps -q -f name=watchtower)" ]; then
         echo "正在检查 Watchtower 监控的容器..."
+
+docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock:/var/run/docker.sock "$IMAGE_SOURCE" $monitored_containers -c --schedule "0 5 * * *"
 -----------------------------------------------------------------------------------------
