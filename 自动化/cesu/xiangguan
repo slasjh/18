@@ -43,3 +43,8 @@ uninstall_watchtower() {
 
 docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock:/var/run/docker.sock "$IMAGE_SOURCE" $monitored_containers -c --schedule "0 5 * * *"
 -----------------------------------------------------------------------------------------
+
+https://github.com/wankaiming/live-streaming-m3u8-checker/blob/main/main.py
+使用ffmpeg下载{download_video_time}秒直播源的视频时长，如果视频文件的大小，小于这个值，说明下载很慢
+
+
