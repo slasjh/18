@@ -33,3 +33,11 @@ https://github.com/slasjh/yuanzl77-IPTV/blob/main/config.py
 
 dingyi url
 ----------------------------------------------------------------------------------------------------------------------------------
+https://github.com/slasjh/YanG-1989-m3u/blob/main/Pixman.sh
+# 卸载 Watchtower 监控指定容器
+uninstall_watchtower() {
+    local name=$1
+
+    if [ "$(docker ps -q -f name=watchtower)" ]; then
+        echo "正在检查 Watchtower 监控的容器..."
+-----------------------------------------------------------------------------------------
