@@ -7,10 +7,17 @@ IPV6是否开启查询
 工具（直播源检测有效性）：
 
 https://github.com/zhimin-dev/iptv-checker
+-------------------------------------------------------------------------------
+ Windows (windows10, windows11)/MacOS/导入m3u/导入txt/url导入
+检查iptv是否生效
+    批量检查/配置代理，通过代理检查批量/删除检查错误次数大于等于2的记录
 
-https://github.com/youwen21/flybird-m3u8downloader
+导出iptv导出m3u导出txt
 
+https://github.com/youwen21/flybird-iptv
+#//https://github.com/youwen21/flybird-m3u8downloader
 
+---------------------------------------------------------------------------------------
     各大直播源的提供者
     https://github.com/flyfishes/IPTV-M3U-Checker2，（吐槽：开启测速后检测真的极慢）
     https://github.com/ssili126/tv
