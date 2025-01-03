@@ -79,4 +79,41 @@ for whitelist_line in whitelist_auto_lines:
             response_time = 60000  # 单位毫秒，转换失败给个60秒
         if response_time < 2000:  #2s以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
+
+
+def sort_data(order, data):
+    # 创建一个字典来存储每行数据的索引
+    order_dict = {name: i for i, name in enumerate(order)}
+    
+    # 定义一个排序键函数，处理不在 order_dict 中的字符串
+    def sort_key(line):
+        name = line.split(',')[0]
+        return order_dict.get(name, len(order))
+    
+    # 按照 order 中的顺序对数据进行排序
+    sorted_data = sorted(data, key=sort_key)
+    return sorted_data
+
+def clean_channel_name(channel_name, removal_list):
+    for item in removal_list:
+        channel_name = channel_name.replace(item, "")
+
+    # 检查并移除末尾的 'HD'
+    if channel_name.endswith("HD"):
+        channel_name = channel_name[:-2]  # 去掉最后两个字符 "HD"
+    
+    if channel_name.endswith("台") and len(channel_name) > 3:
+        channel_name = channel_name[:-1]  # 去掉最后两个字符 "台"
+
+    return channel_name
+
+# 分发直播源，归类，把这部分从process_url剥离出来，为以后加入whitelist源清单做准备。
+def process_channel_line(line):
+    if  "#genre#" not in line and "#EXTINF:" not in line and "," in line and "://" in line:
+        channel_name=line.split(',')[0].strip()
+        channel_name= clean_channel_name(channel_name, removal_list)  #分发前清理channel_name中特定字符
+        channel_name = traditional_to_simplified(channel_name)  #繁转简
+
+        channel_address=clean_url(line.split(',')[1].strip())  #把URL中$之后的内容都去掉
+        line=channel_name+","+channel_address #重新组织line
 -----------------------------------------------------------------------------------------------------
