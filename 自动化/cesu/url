@@ -1,0 +1,9 @@
+ Error checking http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8: <urlopen error [Errno 101] Network is unreachable>
+Error checking http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8: <urlopen error [Errno 101] Network is unreachable>
+Error checking http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8: <urlopen error [Errno 101] Network is unreachable>
+Error checking http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8: <urlopen error [Errno 101] Network is unreachable> 请求 m3u8 文件失败: 403 Client Error: Forbidden for url: http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+
+
+ ERROR:root:URL source validation failed for http://z.b.bkpcp.top/m.php?id=cctv2
+
+
